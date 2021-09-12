@@ -11,12 +11,19 @@
 #### The data is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be subscribed ('yes') or not ('no') subscribed.
 
 
-#### Problem Statement:- The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
-
-
 ### Dataset URL : <a href="https://www.kaggle.com/rashmiranu/banking-dataset-classification?select=new_train.csv">LINK</a>
 
 
+#### Problem Statement:- The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+
+### Models with GridSearchCV:
+
+####  1. KNeighborsClassifier
+#### 2. DecisionTreeClassifier
+#### 3. RandomForestClassifier
+#### 4. AdaBoostClassifier
+#### 5. GradientBoostingClassifier
+#### 6. Stack Generalization
 
 
 
